@@ -1,8 +1,6 @@
 # Digital Dice — FPGA/VHDL Project
 
-> **COE321: Digital Systems Design**  
-> Ajman University — College of Engineering and Information Technology  
-> Department of Electrical and Computer Engineering
+
 
 A digital implementation of a standard 6-sided die, designed in VHDL and deployed on a **Nexys 4 FPGA board**. The system uses a **3-bit Linear Feedback Shift Register (LFSR)** to generate pseudo-random numbers (1–6), displaying the result on a 7-segment display and via 3 binary LEDs.
 
